@@ -1,0 +1,7 @@
+django
+djangorestframework
+django-phonenumber-field
+psycopg2-binary
+Pillow 
+requests
+numpy
